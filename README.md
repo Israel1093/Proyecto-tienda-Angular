@@ -1,6 +1,7 @@
 # ComercioElectronicoApp
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://i.imgur.com/WX8KpIc.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
